@@ -12,3 +12,5 @@
 ![Operating Systems](https://github.com/yassminarlen/Downloading-Tableau/blob/main/image.png?raw=true.jpg)
 
 (screen shot derived from) [Technical Specifications] (https://www.tableau.com/products/techspecs)
+
+7. After installation, open desktop app and select ‘Activate with Product Key’ on Tableau 
