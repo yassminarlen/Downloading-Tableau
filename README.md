@@ -5,3 +5,4 @@
 
 4. Download Tableau Desktop, be weary of Tableau's supporting systems, Chrome OS does not support Tableau desktop 
 ![Operating Systems](https://github.com/yassminarlen/Downloading-Tableau/blob/main/image.png?raw=true.jpg)
+
