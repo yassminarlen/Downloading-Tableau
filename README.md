@@ -5,6 +5,7 @@
 4. In your student email inbox look for an email from ‘SheerID Verification’ with subject
 ‘Your Tableau Desktop Product Key’
 5. From the email select ‘Download Tableau Desktop’ 
+
 ![SheerID Verification Email](https://github.com/yassminarlen/Downloading-Tableau/blob/main/student%20tableau%20download.png?raw=true.jpg)
 
 6. Download Tableau Desktop, be weary of Tableau's supporting systems, Chrome OS does not support Tableau desktop 
