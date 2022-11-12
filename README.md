@@ -17,3 +17,4 @@
 7. After installation, open desktop app and select ‘Activate with Product Key’ on Tableau 
 
 ![Activating Product](https://github.com/yassminarlen/Downloading-Tableau/blob/main/Activating%20Product%20Key.png?raw=true.jpg)
+(e.g. [@Brown, Sheena, Summerworkshop-email-June 30,2022,UA])
